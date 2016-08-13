@@ -1,2 +1,1 @@
-# Other-s-
-Other(s)
+this is a tip!
